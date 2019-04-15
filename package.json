@@ -1,0 +1,23 @@
+{
+  "name": "typescriptprojecttemplate",
+  "version": "1.0.0",
+  "description": "template for gulp+TypeScript project",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1eXu5/TypeScriptProjectTemplate.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "template"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p1eXu5/TypeScriptProjectTemplate/issues"
+  },
+  "homepage": "https://github.com/p1eXu5/TypeScriptProjectTemplate#readme"
+}
