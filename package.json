@@ -35,6 +35,7 @@
     "typescript": "^3.4.3",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
-    "watchify": "^3.11.1"
+    "watchify": "^3.11.1",
+    "y18n": ">=3.2.2"
   }
 }
